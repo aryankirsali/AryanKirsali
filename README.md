@@ -17,7 +17,7 @@
   </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=aryankirsali&style=flat-square&color=blue" alt=""/>
-   <img align="right" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif"/>
+   <img align="right" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"/>
   </div>
 </div>
 
