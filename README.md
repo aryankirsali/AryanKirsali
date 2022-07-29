@@ -1,4 +1,9 @@
-<div id="header" align="center">
+<div id="header" align="left">
+  <h2>
+    Hi there, I'm Aryan
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+  </h2>
+  <div>
   <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/aryan-kirsali/">
@@ -7,24 +12,23 @@
   <a href="https://www.instagram.com/aryan__kirsali/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a href="https://discord.gg/XDzPDxT3py">
+    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=aryankirsali&style=flat-square&color=blue" alt=""/>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/6xpBQeimnN5QKT29oQ/giphy.gif"/>
+   <img align="right" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif"/>
+  </div>
 </div>
 
 ---
+
 ### :man_technologist: About Me :
 
-Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: Currently working as an SDE Intern at Kommunicate.
 
-- :seedling: Learning Blockchain and Cloud Computing.
+- :seedling: Learning Blockchain and Backend Development.
 
 - :zap: I watch Anime, practise DSA in my free time. 
 
@@ -32,7 +36,7 @@ Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: My Skillset :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -60,3 +64,4 @@ Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryankirsali&theme=radical)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryankirsali&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
