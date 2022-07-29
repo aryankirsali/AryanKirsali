@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/6xpBQeimnN5QKT29oQ/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/aryan-kirsali/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,7 +15,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif"/>
+  <img src="https://media.giphy.com/media/6xpBQeimnN5QKT29oQ/giphy.gif"/>
 </div>
 
 ---
