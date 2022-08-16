@@ -62,7 +62,8 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryankirsali&count_private=true&show_icons=true&theme=radical)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryankirsali&theme=radical)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryankirsali&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
