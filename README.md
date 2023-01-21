@@ -37,7 +37,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :hammer_and_wrench: My Skillset :
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,nodejs,tailwind,expressjs,nextjs,mongodb,firebase,gcp,flutter,dart,mysql,postgresql,python,docker,git&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,nodejs,tailwind,expressjs,nextjs,mongodb,firebase,gcp,flutter,dart,mysql,postgresql,python,docker,git&perline=7)](https://skillicons.dev)
 
 ---
 
