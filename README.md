@@ -25,10 +25,10 @@
 
 ### :man_technologist: About Me :
 
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- Currently working as an SDE Intern at Kommunicate.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- Currently working as an SWE-1 at Kommunicate.
 
-- Learning Blockchain and Backend Development.
+- Learning Software architecture and Backend Development.
 
 - I watch Anime, practise DSA in my free time. 
 
