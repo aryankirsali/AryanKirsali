@@ -37,7 +37,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### :hammer_and_wrench: My Skillset :
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,nodejs,tailwind,expressjs,nextjs,mongodb,firebase,gcp,flutter,dart,mysql,postgresql,python,docker,git&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,expressjs,mongodb,mysql,python,flask,cpp,docker,aws,git,grafana,rabbitmq,postman&perline=6)](https://skillicons.dev)
 
 ---
 
