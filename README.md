@@ -6,7 +6,7 @@
   <div>
   <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/aryan-kirsali/">
+  <a href="https://www.linkedin.com/in/aryankirsali/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/aryan__kirsali/?hl=en">
@@ -28,11 +28,11 @@
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - Currently working as an SWE-1 at Kommunicate.
 
-- Learning Software architecture and Backend Development.
+- Learning Software architecture, Microservices, and AWS.
 
-- I watch Anime, practise DSA in my free time. 
+- I watch Anime, solve coding problems, and read entrepreneurial books in my free time. 
 
-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-kirsali/)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aryankirsali/)
 
 ---
 
