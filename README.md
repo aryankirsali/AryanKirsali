@@ -26,7 +26,7 @@
 ### :man_technologist: About Me :
 
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- Currently working as an SWE-1 at Kommunicate.
+- Currently working as an SDE-1(Backend).
 
 - Learning Software architecture, Microservices, and AWS.
 
